@@ -1,0 +1,20 @@
+{
+  "name": "infura-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "@truffle/hdwallet-provider": "^2.1.4",
+    "dotenv": "^16.3.1",
+    "ganache-cli": "^6.12.2",
+    "truffle": "5.7",
+    "uws": "^200.0.0"
+  },
+  "description": ""
+}
